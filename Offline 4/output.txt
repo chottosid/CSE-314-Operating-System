@@ -1,0 +1,161 @@
+Visitor 2001 has arrived at A at timestamp 953
+Visitor 1009 has arrived at A at timestamp 971
+Visitor 1002 has arrived at A at timestamp 971
+Visitor 1003 has arrived at A at timestamp 971
+Visitor 1001 has arrived at A at timestamp 973
+Visitor 1006 has arrived at A at timestamp 988
+Visitor 1007 has arrived at A at timestamp 990
+Visitor 2004 has arrived at A at timestamp 1003
+Visitor 2005 has arrived at A at timestamp 1003
+Visitor 1010 has arrived at A at timestamp 1014
+Visitor 1004 has arrived at A at timestamp 1018
+Visitor 2002 has arrived at A at timestamp 1026
+Visitor 2003 has arrived at A at timestamp 1045
+Visitor 1008 has arrived at A at timestamp 1048
+Visitor 2006 has arrived at A at timestamp 1052
+Visitor 1005 has arrived at A at timestamp 1067
+Visitor 2001 has arrived at B at timestamp 2954
+Visitor 2001 is on step 0 at timestamp 2954
+Visitor 1009 has arrived at B at timestamp 2971
+Visitor 1002 has arrived at B at timestamp 2971
+Visitor 1003 has arrived at B at timestamp 2971
+Visitor 1001 has arrived at B at timestamp 2973
+Visitor 1006 has arrived at B at timestamp 2988
+Visitor 1007 has arrived at B at timestamp 2990
+Visitor 2004 has arrived at B at timestamp 3004
+Visitor 2005 has arrived at B at timestamp 3004
+Visitor 1010 has arrived at B at timestamp 3015
+Visitor 1004 has arrived at B at timestamp 3018
+Visitor 2002 has arrived at B at timestamp 3027
+Visitor 2003 has arrived at B at timestamp 3045
+Visitor 1008 has arrived at B at timestamp 3049
+Visitor 2006 has arrived at B at timestamp 3052
+Visitor 1005 has arrived at B at timestamp 3067
+Visitor 2001 is on step 1 at timestamp 3931
+Visitor 1009 is on step 0 at timestamp 3932
+Visitor 2001 is on step 2 at timestamp 4889
+Visitor 1009 is on step 1 at timestamp 4924
+Visitor 1002 is on step 0 at timestamp 4924
+Visitor 2001 entered Gallery 1 at timestamp 5854
+Visitor 1009 is on step 2 at timestamp 5895
+Visitor 1002 is on step 1 at timestamp 5932
+Visitor 1003 is on step 0 at timestamp 5932
+Visitor 1009 entered Gallery 1 at timestamp 6942
+Visitor 1002 is on step 2 at timestamp 6942
+Visitor 1003 is on step 1 at timestamp 6942
+Visitor 1001 is on step 0 at timestamp 6942
+Visitor 1002 entered Gallery 1 at timestamp 7995
+Visitor 1003 is on step 2 at timestamp 7995
+Visitor 1001 is on step 1 at timestamp 7995
+Visitor 1006 is on step 0 at timestamp 7995
+Visitor 1003 entered Gallery 1 at timestamp 8968
+Visitor 1001 is on step 2 at timestamp 8994
+Visitor 1006 is on step 1 at timestamp 9042
+Visitor 1007 is on step 0 at timestamp 9042
+Visitor 1001 entered Gallery 1 at timestamp 10003
+Visitor 1006 is on step 2 at timestamp 10003
+Visitor 1007 is on step 1 at timestamp 10011
+Visitor 2004 is on step 0 at timestamp 10011
+Visitor 2001 is in Glass Corridor at timestamp 11854 ms
+Visitor 1006 entered Gallery 1 at timestamp 11854
+Visitor 1007 is on step 2 at timestamp 11854
+Visitor 2004 is on step 1 at timestamp 11854
+Visitor 2005 is on step 0 at timestamp 11854
+Visitor 2001 entered Gallery 2 at timestamp 12896 ms
+Visitor 1009 is in Glass Corridor at timestamp 12943 ms
+Visitor 1007 entered Gallery 1 at timestamp 12943
+Visitor 2004 is on step 2 at timestamp 12943
+Visitor 2005 is on step 1 at timestamp 12943
+Visitor 1010 is on step 0 at timestamp 12943
+Visitor 1009 entered Gallery 2 at timestamp 13926 ms
+Visitor 1002 is in Glass Corridor at timestamp 13995 ms
+Visitor 2004 entered Gallery 1 at timestamp 13996
+Visitor 2005 is on step 2 at timestamp 13996
+Visitor 1010 is on step 1 at timestamp 13996
+Visitor 1004 is on step 0 at timestamp 13996
+Visitor 1003 is in Glass Corridor at timestamp 14968 ms
+Visitor 1002 entered Gallery 2 at timestamp 14981 ms
+Visitor 2005 entered Gallery 1 at timestamp 15020
+Visitor 1010 is on step 2 at timestamp 15020
+Visitor 1004 is on step 1 at timestamp 15020
+Visitor 2002 is on step 0 at timestamp 15020
+Visitor 1003 entered Gallery 2 at timestamp 15984 ms
+Visitor 1001 is in Glass Corridor at timestamp 16003 ms
+Visitor 1010 entered Gallery 1 at timestamp 16019
+Visitor 1004 is on step 2 at timestamp 16060
+Visitor 2002 is on step 1 at timestamp 16061
+Visitor 2003 is on step 0 at timestamp 16061
+Visitor 1001 entered Gallery 2 at timestamp 16992 ms
+Visitor 1006 is in Glass Corridor at timestamp 17854 ms
+Visitor 1004 entered Gallery 1 at timestamp 17854
+Visitor 2002 is on step 2 at timestamp 17854
+Visitor 2003 is on step 1 at timestamp 17854
+Visitor 1008 is on step 0 at timestamp 17854
+Visitor 1006 entered Gallery 2 at timestamp 18831 ms
+Visitor 2001 is about to enter the photo booth at timestamp 18896
+Visitor 2001 is inside the photo booth at timestamp 18896
+Visitor 1007 is in Glass Corridor at timestamp 18943 ms
+Visitor 2002 entered Gallery 1 at timestamp 18943
+Visitor 2003 is on step 2 at timestamp 18943
+Visitor 1008 is on step 1 at timestamp 18943
+Visitor 2006 is on step 0 at timestamp 18943
+Visitor 1007 entered Gallery 2 at timestamp 19889 ms
+Visitor 2004 is in Glass Corridor at timestamp 19996 ms
+Visitor 2003 entered Gallery 1 at timestamp 19996
+Visitor 1008 is on step 2 at timestamp 19996
+Visitor 2006 is on step 1 at timestamp 19996
+Visitor 1005 is on step 0 at timestamp 19996
+Visitor 2004 entered Gallery 2 at timestamp 20964 ms
+Visitor 2005 is in Glass Corridor at timestamp 21020 ms
+Visitor 1008 entered Gallery 1 at timestamp 21020
+Visitor 2006 is on step 2 at timestamp 21020
+Visitor 1005 is on step 1 at timestamp 21020
+Visitor 2005 entered Gallery 2 at timestamp 22012 ms
+Visitor 1010 is in Glass Corridor at timestamp 22019 ms
+Visitor 2006 entered Gallery 1 at timestamp 22044
+Visitor 1005 is on step 2 at timestamp 22081
+Visitor 1010 entered Gallery 2 at timestamp 23048 ms
+Visitor 1004 is in Glass Corridor at timestamp 23854 ms
+Visitor 1005 entered Gallery 1 at timestamp 23854
+Visitor 1004 entered Gallery 2 at timestamp 24844 ms
+Visitor 2002 is in Glass Corridor at timestamp 24943 ms
+Visitor 2002 entered Gallery 2 at timestamp 25930 ms
+Visitor 2003 is in Glass Corridor at timestamp 25345 ms
+Visitor 2004 is about to enter the photo booth at timestamp 26314
+Visitor 2004 is inside the photo booth at timestamp 26314
+Visitor 2003 entered Gallery 2 at timestamp 26332 ms
+Visitor 1008 is in Glass Corridor at timestamp 26370 ms
+Visitor 2005 is about to enter the photo booth at timestamp 27362
+Visitor 1008 entered Gallery 2 at timestamp 27381 ms
+Visitor 2006 is in Glass Corridor at timestamp 27394 ms
+Visitor 2006 entered Gallery 2 at timestamp 28395 ms
+Visitor 1005 is in Glass Corridor at timestamp 29204 ms
+Visitor 2005 is inside the photo booth at timestamp 29314
+Visitor 1009 is about to enter the photo booth at timestamp 29646
+Visitor 1002 is about to enter the photo booth at timestamp 29931
+Visitor 1005 entered Gallery 2 at timestamp 30218 ms
+Visitor 1003 is about to enter the photo booth at timestamp 30874
+Visitor 2002 is about to enter the photo booth at timestamp 31280
+Visitor 1001 is about to enter the photo booth at timestamp 32062
+Visitor 2002 is inside the photo booth at timestamp 32314
+Visitor 2003 is about to enter the photo booth at timestamp 32332
+Visitor 1006 is about to enter the photo booth at timestamp 33881
+Visitor 2006 is about to enter the photo booth at timestamp 34395
+Visitor 1007 is about to enter the photo booth at timestamp 34709
+Visitor 2003 is inside the photo booth at timestamp 35328
+Visitor 1010 is about to enter the photo booth at timestamp 38212
+Visitor 2006 is inside the photo booth at timestamp 38329
+Visitor 1004 is about to enter the photo booth at timestamp 40254
+Visitor 1009 is inside the photo booth at timestamp 41330
+Visitor 1002 is inside the photo booth at timestamp 41330
+Visitor 1003 is inside the photo booth at timestamp 41330
+Visitor 1001 is inside the photo booth at timestamp 41330
+Visitor 1006 is inside the photo booth at timestamp 41330
+Visitor 1007 is inside the photo booth at timestamp 41330
+Visitor 1010 is inside the photo booth at timestamp 41330
+Visitor 1004 is inside the photo booth at timestamp 41330
+Visitor 1008 is about to enter the photo booth at timestamp 43152
+Visitor 1008 is inside the photo booth at timestamp 43152
+Visitor 1005 is about to enter the photo booth at timestamp 45909
+Visitor 1005 is inside the photo booth at timestamp 45909
+All finished
