@@ -2,6 +2,7 @@
 
 Repository of lab assignments for **CSE-314: Operating Systems (Sessional)**.
 All tasks implemented and tested on **xv6**.
+Each folder in this repo is a different task/assignment.
 
 ## Topics covered
 
